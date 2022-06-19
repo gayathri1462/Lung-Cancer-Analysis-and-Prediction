@@ -1,4 +1,4 @@
-# Lung Cancer Detection Based On Ct Scans
+# Lung Cancer Detection Based On CT Scans
 ## Steps to run the code:
 1. Upload the zip file of dataset to drive
 2. Uncomment the code in the cells to extract dataset from zip file
