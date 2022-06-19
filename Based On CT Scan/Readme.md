@@ -6,3 +6,5 @@
 4. Run the remaining cells to preprocess the dataset, train the CNN model and evaluate the model performance.
 5. The trained CNN model is uploaded in the Code -> Based On CNN folder
 
+## Click on the following link to view the jupyter notebook:
+### https://nbviewer.ipython.org/github/gayathri1462/Lung-Cancer-Analysis-and-Prediction/blob/main/Based%20On%20CT%20Scan/CNN.ipynb
